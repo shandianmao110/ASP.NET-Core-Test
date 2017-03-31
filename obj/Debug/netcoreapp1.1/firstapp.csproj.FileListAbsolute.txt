@@ -1,0 +1,8 @@
+D:\Project\firstapp\bin\Debug\netcoreapp1.1\firstapp.deps.json
+D:\Project\firstapp\bin\Debug\netcoreapp1.1\firstapp.runtimeconfig.json
+D:\Project\firstapp\bin\Debug\netcoreapp1.1\firstapp.runtimeconfig.dev.json
+D:\Project\firstapp\bin\Debug\netcoreapp1.1\firstapp.dll
+D:\Project\firstapp\bin\Debug\netcoreapp1.1\firstapp.pdb
+D:\Project\firstapp\obj\Debug\netcoreapp1.1\firstapp.AssemblyInfo.cs
+D:\Project\firstapp\obj\Debug\netcoreapp1.1\firstapp.dll
+D:\Project\firstapp\obj\Debug\netcoreapp1.1\firstapp.pdb
