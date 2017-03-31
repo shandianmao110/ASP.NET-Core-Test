@@ -12,6 +12,7 @@ namespace firstapp.Controllers
         public String Welcome(string name,int numTimes=1)
         {
             return HtmlEncoder.Default.Encode($"Hello {name},NumTimes is : {numTimes}");
+            
         }
     }
 }
