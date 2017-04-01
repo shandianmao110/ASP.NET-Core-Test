@@ -9,10 +9,17 @@ namespace firstapp.Controllers
 {
     public class HelloWorldController : Controller
     {
-        public String Welcome(string name,int numTimes=1)
+        public IActionResult Index()
         {
-            return HtmlEncoder.Default.Encode($"Hello {name},NumTimes is : {numTimes}");
-            
+            return View();
+        }
+
+        public IActionResult Welcome(string name, int numTimes = 1)
+        {
+            ViewData["Message"] = "Hello" + name;
+            ViewData["NumTimes"] = numTimes;
+
+            return View();
         }
     }
 }
